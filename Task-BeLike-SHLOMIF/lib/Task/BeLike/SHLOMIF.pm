@@ -13,6 +13,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg Dist::Zilla::PluginBundle::SHLOMIF
 
+=pkg Pod::Coverage::TrustPod
+
 =pkg Pod::Xhtml
 
 =pkg SQ
@@ -24,5 +26,7 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 =pkg Term::ReadLine::Gnu
 
 =pkg Term::ReadLine::Perl5
+
+=pkg Test::Pod
 
 =cut
