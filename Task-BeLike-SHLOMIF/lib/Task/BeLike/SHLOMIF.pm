@@ -25,8 +25,9 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg Term::ReadLine::Gnu
 
-=pkg Term::ReadLine::Perl5
-
 =pkg Test::Pod
+
+Removed: pkg Term::ReadLine::Perl5 - not compatible with bleadperl/etc. -
+see https://github.com/rocky/p5-Term-ReadLine-Perl5/issues/18 .
 
 =cut
