@@ -27,6 +27,39 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg Test::Pod
 
+=pkgroup Favourite Apps
+
+=pkg App::Countdown
+
+=pkg App::CSV2Chart
+
+=pkg App::Deps::Verify
+
+=pkg App::Du::Analyze
+
+=pkg App::Gezer
+
+=pkg App::Git::Info
+
+=pkg App::Nopaste
+
+=pkg App::Notifier::Client
+
+=pkg App::Notifier::Service
+
+=pkg App::Sky
+
+=pkg App::Timestamper
+
+=pkg App::Timestamper::Format
+
+=pkg App::intrunningsum
+
+=pkg App::intsum
+
+=pkg App::stopw
+
+
 Removed: pkg Term::ReadLine::Perl5 - not compatible with bleadperl/etc. -
 see https://github.com/rocky/p5-Term-ReadLine-Perl5/issues/18 .
 
