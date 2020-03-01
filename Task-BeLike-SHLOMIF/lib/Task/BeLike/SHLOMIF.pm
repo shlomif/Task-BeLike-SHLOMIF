@@ -11,6 +11,14 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkgroup Shlomi Fish's Favourite Dists
 
+=pkg Devel::LineTrace
+
+=pkg Devel::Trace
+
+=pkg Devel::TraceUse
+
+=pkg Devel::TraceVars
+
 =pkg Dist::Zilla::PluginBundle::SHLOMIF
 
 =pkg Pod::Coverage::TrustPod
@@ -53,12 +61,13 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg App::Timestamper::Format
 
+=pkg App::gimpgitbuild
+
 =pkg App::intrunningsum
 
 =pkg App::intsum
 
 =pkg App::stopw
-
 
 Removed: pkg Term::ReadLine::Perl5 - not compatible with bleadperl/etc. -
 see https://github.com/rocky/p5-Term-ReadLine-Perl5/issues/18 .
