@@ -29,6 +29,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg Task::FreecellSolver::Testing
 
+=pkg Task::FreecellSolver::Testing::MultiConfig
+
 =pkg Task::Sites::ShlomiFish
 
 =pkg Term::ReadLine::Gnu
