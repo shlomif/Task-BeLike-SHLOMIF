@@ -69,6 +69,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg App::intsum
 
+=pkg App::prefixintsumcol
+
 =pkg App::stopw
 
 Removed: pkg Term::ReadLine::Perl5 - not compatible with bleadperl/etc. -
