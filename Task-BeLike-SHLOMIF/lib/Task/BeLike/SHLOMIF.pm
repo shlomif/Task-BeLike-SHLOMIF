@@ -11,6 +11,10 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkgroup Shlomi Fish's Favourite Dists
 
+=pkg Bit::Vector
+
+=pkg Carp::Always
+
 =pkg Devel::LineTrace
 
 =pkg Devel::Trace
@@ -20,6 +24,18 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 =pkg Devel::TraceVars
 
 =pkg Dist::Zilla::PluginBundle::SHLOMIF
+
+=pkg Dist::Zilla::Plugin::Keywords
+
+=pkg GD
+
+=pkg HTML::Links::Localize
+
+=pkg Image::Size
+
+=pkg Math::Random::MT
+
+=pkg Perl::Tidy
 
 =pkg Pod::Coverage::TrustPod
 
@@ -35,7 +51,13 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg Term::ReadLine::Gnu
 
+=pkg Test::File::IsSorted
+
 =pkg Test::Pod
+
+=pkg Test::Some
+
+=pkg Tree::AVL
 
 =pkgroup Favourite Apps
 
