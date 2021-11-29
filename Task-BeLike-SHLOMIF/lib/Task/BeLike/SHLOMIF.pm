@@ -27,6 +27,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg Dist::Zilla::Plugin::Keywords
 
+=pkg Docker::CLI::Wrapper
+
 =pkg GD
 
 =pkg HTML::Links::Localize
@@ -84,6 +86,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 =pkg App::Timestamper
 
 =pkg App::Timestamper::Format
+
+=pkg App::Timestamper::WithElapsed
 
 =pkg App::gimpgitbuild
 
