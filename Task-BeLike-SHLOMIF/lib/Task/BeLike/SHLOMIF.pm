@@ -99,6 +99,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg App::stopw
 
+=pkg File::Dir::Dumper
+
 Removed: pkg Term::ReadLine::Perl5 - not compatible with bleadperl/etc. -
 see https://github.com/rocky/p5-Term-ReadLine-Perl5/issues/18 .
 
