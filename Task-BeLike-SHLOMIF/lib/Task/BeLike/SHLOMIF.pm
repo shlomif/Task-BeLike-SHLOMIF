@@ -37,6 +37,10 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg Math::Random::MT
 
+=pkg Module::Format
+
+=pkg Module::Format::AsHTML
+
 =pkg Perl::Tidy
 
 =pkg Pod::Coverage::TrustPod
@@ -69,6 +73,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg App::Deps::Verify
 
+=pkg App::Docmake
+
 =pkg App::Du::Analyze
 
 =pkg App::Gezer
@@ -82,6 +88,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 =pkg App::Notifier::Service
 
 =pkg App::Sky
+
+=pkg App::Tac_n
 
 =pkg App::Timestamper
 
@@ -97,7 +105,11 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg App::prefixintsumcol
 
+=pkg App::rshasum
+
 =pkg App::stopw
+
+=pkg App::xspf2m3u
 
 =pkg File::Dir::Dumper
 
