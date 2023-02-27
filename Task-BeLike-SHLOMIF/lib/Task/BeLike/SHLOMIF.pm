@@ -87,6 +87,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg App::Notifier::Service
 
+=pkg App::SVG::Graph
+
 =pkg App::Sky
 
 =pkg App::Tac_n
