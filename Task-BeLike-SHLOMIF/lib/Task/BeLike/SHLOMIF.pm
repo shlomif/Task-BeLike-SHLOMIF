@@ -41,6 +41,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg Module::Format::AsHTML
 
+=pkg Net::GitHub
+
 =pkg Perl::Tidy
 
 =pkg Pod::Coverage::TrustPod
