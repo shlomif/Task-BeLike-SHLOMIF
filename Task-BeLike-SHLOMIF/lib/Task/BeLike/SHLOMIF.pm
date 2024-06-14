@@ -99,6 +99,8 @@ Task::BeLike::SHLOMIF - Be like SHLOMIF / Shlomi Fish.
 
 =pkg App::Timestamper::Format
 
+=pkg App::Timestamper::Log::Process
+
 =pkg App::Timestamper::WithElapsed
 
 =pkg App::gimpgitbuild
